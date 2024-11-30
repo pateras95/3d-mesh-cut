@@ -23,8 +23,8 @@ python3 3d_mesh_cut.py
 ### Overview
 
 <p align="center">
-  <img src="https://github.com/pateras95/3d-mesh-cut/blob/main/cut-object.png?raw=true" alt="Cut Object" width="400" height="250">
-  <img src="https://github.com/pateras95/3d-mesh-cut/blob/main/object.png?raw=true" alt="Object" width="400" height="250">
+  <img src="https://github.com/pateras95/3d-mesh-cut/blob/main/cut-object.png?raw=true" alt="Cut Object" width="600" height="300">
+  <img src="https://github.com/pateras95/3d-mesh-cut/blob/main/object.png?raw=true" alt="Object" width="600" height="300">
 </p>
 
 
