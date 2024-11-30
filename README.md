@@ -22,3 +22,6 @@ python3 3d_mesh_cut.py
 
 ### Overview
 
+![alt text](https://github.com/pateras95/3d-mesh-cut/blob/main/cut-object.png?raw=true)
+
+
