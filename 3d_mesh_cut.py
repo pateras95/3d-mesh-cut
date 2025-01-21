@@ -30,4 +30,3 @@ else:
 
     # Start the plotter with desired settings
     plotter.start(axes=0, interactive=1).close()
-
